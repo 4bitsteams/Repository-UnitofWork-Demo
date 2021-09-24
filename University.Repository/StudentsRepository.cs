@@ -11,7 +11,7 @@ namespace UniversityManagementUseRepositoryUnitOfWork.Repository
             
         }
 
-        public IEnumerable<Student> GetBooksByName(string Name)
+        public IEnumerable<Student> GetStudentsByName(string Name)
         {
             return _context.Students.Where(x => x.Name == Name);
         }
