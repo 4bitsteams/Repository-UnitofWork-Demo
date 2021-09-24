@@ -1,4 +1,4 @@
-﻿namespace UniversityManagementUseRepositoryUnitOfWork.Domain.StudentsAggregate
+﻿namespace UniversityManagementUseRepositoryUnitOfWork.Entity
 {
     public class Student
     {

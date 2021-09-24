@@ -1,4 +1,5 @@
-﻿using UniversityManagementUseRepositoryUnitOfWork.Domain.StudentAggregate;
+﻿
+using UniversityManagementUseRepositoryUnitOfWork.Entity;
 
 namespace UniversityManagementUseRepositoryUnitOfWork.Domain.SubjectAggregate
 {

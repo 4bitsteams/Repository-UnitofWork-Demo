@@ -2,8 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using UniversityManagementUseRepositoryUnitOfWork.Domain;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.StudentAggregate;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.StudentsAggregate;
+using UniversityManagementUseRepositoryUnitOfWork.Entity;
 
 namespace UniversityManagementUseRepositoryUnitOfWork.API.Controllers
 {

@@ -2,8 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.StudentAggregate;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.StudentsAggregate;
+using UniversityManagementUseRepositoryUnitOfWork.Entity;
 
 namespace UniversityManagementUseRepositoryUnitOfWork.Repository
 {
