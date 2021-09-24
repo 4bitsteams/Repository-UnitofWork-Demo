@@ -24,7 +24,7 @@ namespace UniversityManagementUseRepositoryUnitOfWork.API.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Student> GetByGenre([FromQuery] string Name)
+        public IEnumerable<Student> GetByName([FromQuery] string Name)
         {
             return _unitOfWork.Students.GetStudentsByName(Name);
         }
