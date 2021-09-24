@@ -3,7 +3,7 @@ using UniversityManagementUseRepositoryUnitOfWork.Entity;
 
 namespace UniversityManagementUseRepositoryUnitOfWork.Repository
 {
-    class SubjectsRepository :GenericRepository<Subject>, ISubjectRepository
+    public  class SubjectsRepository :GenericRepository<Subject>, ISubjectRepository
     {
         public SubjectsRepository(UniversityDbContext context):base(context)
         {
