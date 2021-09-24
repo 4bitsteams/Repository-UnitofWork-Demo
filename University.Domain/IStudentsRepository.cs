@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UniversityManagementUseRepositoryUnitOfWork.Entity;
 
-namespace UniversityManagementUseRepositoryUnitOfWork.Domain.StudentsAggregate
+namespace UniversityManagementUseRepositoryUnitOfWork.Domain
 {
     public interface IStudentsRepository :IGenericRepository<Student>
     {

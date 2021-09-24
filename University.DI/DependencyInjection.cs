@@ -2,8 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using UniversityManagementUseRepositoryUnitOfWork.Domain;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.StudentsAggregate;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.SubjectAggregate;
 
 namespace UniversityManagementUseRepositoryUnitOfWork.Repository
 {

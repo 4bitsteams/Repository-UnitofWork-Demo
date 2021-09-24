@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.StudentsAggregate;
+using UniversityManagementUseRepositoryUnitOfWork.Domain;
 using UniversityManagementUseRepositoryUnitOfWork.Entity;
 
 namespace UniversityManagementUseRepositoryUnitOfWork.Repository

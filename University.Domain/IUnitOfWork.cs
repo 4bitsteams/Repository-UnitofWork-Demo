@@ -1,6 +1,6 @@
 ﻿using System;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.StudentsAggregate;
-using UniversityManagementUseRepositoryUnitOfWork.Domain.SubjectAggregate;
+using UniversityManagementUseRepositoryUnitOfWork.Domain;
+using UniversityManagementUseRepositoryUnitOfWork.Domain;
 
 namespace UniversityManagementUseRepositoryUnitOfWork.Domain
 {
