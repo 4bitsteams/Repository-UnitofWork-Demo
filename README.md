@@ -1,3 +1,3 @@
 # Repository-UnitofWork-Demo
 
-Large scale application architecture of asp.net Core
+Medium scale application architecture of asp.net Core
